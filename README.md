@@ -40,7 +40,7 @@ Then, trained model will be saved at `./saved_model`
 python3 main.py --model "ew" --pretrained 
 ```
 
-Then, the model will generate from the pretrained model, which you can get from this [link]().
+Then, the model will generate from the pretrained model, which you can get from this [link](https://drive.google.com/file/d/169FwE1hxLLNB1US_wRYswkyxPS_5LLVD/view?usp=sharing).
 
 ##### Discriminator Dominant model
 
