@@ -57,7 +57,9 @@ python3 main.py --model "hybrid" --pretrained
 #### File tree
 
 
+### Pretrained model - you can use the model below to directly generate music
 
+https://drive.google.com/file/d/1rbwk-K5QujsfOXoOu1SgRB4qH7PAAK8h/view?usp=sharing
 
 
 
