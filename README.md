@@ -40,7 +40,7 @@ Then, trained model will be saved at `./saved_model`
 python3 main.py --model "ew" --pretrained 
 ```
 
-Then, the model will generate from the pretrained model, which you can get from this [link](https://drive.google.com/file/d/169FwE1hxLLNB1US_wRYswkyxPS_5LLVD/view?usp=sharing).
+Then, the model will generate from the pretrained model, which you can get from this [link](https://drive.google.com/file/d/1rbwk-K5QujsfOXoOu1SgRB4qH7PAAK8h/view?usp=sharing).
 
 ##### Discriminator Dominant model
 
@@ -54,12 +54,7 @@ python3 main.py --model "dd" --pretrained
 python3 main.py --model "hybrid" --pretrained 
 ```
 
-#### File tree
 
-
-### Pretrained model - you can use the model below to directly generate music
-
-https://drive.google.com/file/d/1rbwk-K5QujsfOXoOu1SgRB4qH7PAAK8h/view?usp=sharing
 
 
 
