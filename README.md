@@ -5,9 +5,8 @@
 #### dependencies
 
 ```
-python3
-PyTorch
-
+python >= 3
+PyTorch >= 1.0.0
 ```
 
 #### Train the model
